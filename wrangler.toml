@@ -12,7 +12,7 @@ pattern = "quiz.int.vidio.com.mwkwrt.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "46.235.18.248:45137"
+PROXYIP = "46.235.18.248:45137,43.218.77.16:443"
 UUID = "1c48c6c9-3d93-485a-ba0a-b32b48ca609b"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
